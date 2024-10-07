@@ -1,0 +1,14 @@
+D:\мои файлы\Колледж\Практика\7oct2024\bin\Debug\net8.0\7oct2024.exe
+D:\мои файлы\Колледж\Практика\7oct2024\bin\Debug\net8.0\7oct2024.deps.json
+D:\мои файлы\Колледж\Практика\7oct2024\bin\Debug\net8.0\7oct2024.runtimeconfig.json
+D:\мои файлы\Колледж\Практика\7oct2024\bin\Debug\net8.0\7oct2024.dll
+D:\мои файлы\Колледж\Практика\7oct2024\bin\Debug\net8.0\7oct2024.pdb
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\7oct2024.GeneratedMSBuildEditorConfig.editorconfig
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\7oct2024.AssemblyInfoInputs.cache
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\7oct2024.AssemblyInfo.cs
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\7oct2024.csproj.CoreCompileInputs.cache
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\7oct2024.dll
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\refint\7oct2024.dll
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\7oct2024.pdb
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\7oct2024.genruntimeconfig.cache
+D:\мои файлы\Колледж\Практика\7oct2024\obj\Debug\net8.0\ref\7oct2024.dll
