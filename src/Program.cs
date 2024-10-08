@@ -137,8 +137,6 @@
                 {
                     Console.Clear();
                     Console.WriteLine("Разработайте программу для нахождения самого длинного слова в предложении");
-                    Console.Clear();
-                    Console.WriteLine("Задача 3.\r\nРазработайте программу для нахождения самого длинного слова в предложении");
                     Console.WriteLine("Введите предложение: ");
                     string? sentence = Console.ReadLine();
                     string[] words = sentence.Split();
