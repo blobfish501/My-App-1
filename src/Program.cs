@@ -7,6 +7,7 @@
             bool task_check = true;
             while (task_check)
             {
+                Console.Clear();
                 Console.WriteLine("Выберите задачу (введите 100, чтобы прекратить выполнение): ");
                 int task = Convert.ToInt32(Console.ReadLine());
 // Задача 1
